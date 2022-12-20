@@ -5,7 +5,7 @@ int main() {
     double c = 4;
     double output;
 
-    output = a - (b/c);
+    output = a-(b/c);
     cout << "output: " << output << "\n";
     return 0;
 }
