@@ -6,6 +6,6 @@ int main() {
     double output;
 
     output = a-(b/c);
-    cout << "output: " << output << "\n";
+    cout << "output: "<<output << "\n";
     return 0;
 }
